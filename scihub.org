@@ -1,0 +1,31 @@
+#+TITLE: Sci-Hub and it's Necessity
+#+DATE: 2016-09-11 Sun
+#+AUTHOR: Peixian Wang
+#+TAGS: :Academia:
+
+
+https://news.ycombinator.com/item?id=11093779
+https://news.ycombinator.com/item?id=11074638
+https://news.ycombinator.com/item?id=11177957
+https://news.ycombinator.com/item?id=11635647
+https://news.ycombinator.com/item?id=1237423
+http://www.sciencemag.org/news/2016/04/whos-downloading-pirated-papers-everyone
+http://science.sciencemag.org/content/352/6285/497.full?IntCmp=scihub-2-12
+https://news.ycombinator.com/item?id=11416997
+https://news.ycombinator.com/item?id=11802629
+https://news.ycombinator.com/item?id=11009809
+https://news.ycombinator.com/item?id=9791875
+https://en.wikipedia.org/wiki/ICanHazPDF
+http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0127502
+https://www.theguardian.com/science/2012/apr/24/harvard-university-journal-publishers-prices
+https://news.ycombinator.com/item?id=11009809
+https://archive.org/details/GuerillaOpenAccessManifesto
+libgen
+gigapedia
+http://eprints.rclis.org/24847/2/gardner.pdf
+
+/Strap in, you're in for an post about academic publishing./
+
+[[https://en.wikipedia.org/wiki/Sci-hub][Sci-Hub]] is a pirating website. There, I said it. It 100% *is* a website dedicated to the unauthorized distribution of scientific papers. But this unauthorized distribution is a necessary civil disobedience in the publishing world of academia, currently shackled under the whims of publishing. 
+
+The fundalmental issue with scientific publishing is that the majority of users, those who are affliated with research universities, never have the problem of accessing papers. A student has an almost unlimited access to journals, 
