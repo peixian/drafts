@@ -1,0 +1,5 @@
+* What Will We Do? 
+The Gettsburg address was 272 words. In 272 words, Lincoln managed to capture the horrors of the civil war, the horrors of a divided country, the horrors of brother against brother, state against state. Yet why does it elude us, why does documentation remain such that we refuse to write succiently? Why do we choose to argue against the succintness of code, and deplore the documentation? Why do we waste words, valuable words for naught?
+We live in the age of free information. Our quality of life is something that billions of people will kill for, and yet what do we choose? We choose the same banality, day after day, night after night. Where will we be 10 years from now? What will be our epitaphs? 
+
+

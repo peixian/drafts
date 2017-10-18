@@ -1,0 +1,30 @@
+* Meteor Burst Communications
+
+* Outline
+** What is it? 
+*** Meteor Trails
+*** Parameters
+*** Characteristics
+** Applications?
+*** Communications
+*** Tracking
+*** SNOTEL
+** Equipment?
+*** Equipment
+*** Mobile Equipment
+** Radio Notes
+*** Galactic Noise
+*** Atmospheric Noise
+*** Artificial Noise
+*** Interal System Noise
+** Propagation Modes?
+*** Ionosphere Propagation
+*** VHF Radio LoS 
+*** VHF Tropospheric Scatter
+*** VHF Sporadic Modes
+** Majority of Studies?
+*** Ionospheric Radio Communications - 1968
+*** Meteor Burst Communications - 1990
+*** etc
+** Current times?
+

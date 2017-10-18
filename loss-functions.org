@@ -1,0 +1,6 @@
+#+TITLE: Loss Functions and Decision Rules
+#+AUTHOR: Peixian Wang
+#+DATE: 2017-08-27 Sun 
+#+TAGS: :Math:, :ML:
+
+A loss function is a way of determining the quality of a statistical model. The /expected loss/ is defined as the difference in the true model as a function of the true generating probablity distrubtion $q(x, y)$ and a loss function of $\mathcal{Y}(x) \times \mathcal{Y}(x) \rightarrow \mathds{R}$ 
