@@ -1,0 +1,6 @@
+* Notes on DAG Rosenstein's Remarks on Encryption
+- https://www.justice.gov/opa/speech/deputy-attorney-general-rod-j-rosenstein-delivers-remarks-encryption-united-states-naval
+- https://www.justsecurity.org/46036/responsibility-encryption-debate-response-dag-rosenstein/
+- https://www.justsecurity.org/45917/surveillance-reform-fourth-amendments-long-slow-goodbye/
+- https://www.lawfareblog.com/decrypting-going-dark-debate
+- https://warontherocks.com/2017/10/bolts-from-the-blue-monsters-under-the-bed-and-the-pursuit-of-absolute-security/
